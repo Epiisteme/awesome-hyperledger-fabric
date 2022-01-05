@@ -21,7 +21,18 @@ Awesome Aspects of Hyperledger Fabric
 - https://dzone.com/articles/implementing-multitenancy-on-hyperledger-fabric-us 
 - https://hyperledger.github.io/caliper-benchmarks/fabric/performance/
 
-## Fabric ChainCodes
+## Fabric Performance 
+- https://www.hyperledger.org/learn/publications/blockchain-performance-metrics 
+- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
+- https://arxiv.org/pdf/1901.00910.pdf
+- https://arxiv.org/pdf/2008.05946.pdf
+- https://arxiv.org/pdf/2107.09886.pdf
+
+## Fabric Capacity Planning
+- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
+- https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
+
+## Fabric ChainCodes Implementations
 - https://github.com/hyperledger/fabric-chaincode-java 
 - https://github.com/BhanuPrakashGuntupalli/MI-Block 
 - https://github.com/siyuyifang/lede-read 
@@ -30,25 +41,14 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric ChainCode Best Practices
 - https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/UPDATING_CHAINCODE.md 
 - https://medium.com/@kotsbtechcdac/step-by-step-understanding-writing-and-deploying-chaincode-in-hyperledger-fabric-e00ccdddc4ac 
+- https://www.oreilly.com/library/view/hands-on-blockchain-with/9781788994521/ca383f27-36e0-4fa5-a6b6-065f8f7d39cd.xhtml 
+- http://myhsts.org/tutorial-learn-how-to-compile-and-deploy-hyperledger-fabric-chaincode-and-smart-contracts.php 
 - https://medium.com/@arora.aditya520/chaincode-writing-best-practices-hyperledger-fabric-43d2adffbeec 
 - https://blogs.sap.com/2020/01/23/hyperledger-fabric-chaincode-development-best-practices/ 
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/ 
 
-## Fabric ChainCode Compilation
+## Fabric SDK
 - https://github.com/IBM/IBMDeveloper-recipes/blob/main/developing-backend-application-with-hyperledger-fabric-through-sdk/index.md 
-- https://www.oreilly.com/library/view/hands-on-blockchain-with/9781788994521/ca383f27-36e0-4fa5-a6b6-065f8f7d39cd.xhtml 
-- http://myhsts.org/tutorial-learn-how-to-compile-and-deploy-hyperledger-fabric-chaincode-and-smart-contracts.php 
-
-## Fabric Capacity Planning
-- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
-- https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
-
-## Fabric Performance 
-- https://www.hyperledger.org/learn/publications/blockchain-performance-metrics 
-- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
-- https://arxiv.org/pdf/1901.00910.pdf
-- https://arxiv.org/pdf/2008.05946.pdf
-- https://arxiv.org/pdf/2107.09886.pdf
 
 ## Fabric Channels
 - https://kctheservant.medium.com/system-channel-and-application-channel-in-hyperledger-fabric-cbed3fab276b 
@@ -124,7 +124,6 @@ Awesome Aspects of Hyperledger Fabric
 - https://github.com/KompiTech/hyperledger-fabric-operator 
 - https://github.com/feitnomore/hyperledger-fabric-kubernetes 
 - https://github.com/hyperledger-labs/minifabric 
-- https://arxiv.org/pdf/1805.11390.pdf
 
 ## Fabric Oracles
 - https://developer.ibm.com/articles/oracles-common-architectural-patterns-for-fabric/ 

@@ -4,20 +4,28 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Architecture
 - https://hyperledger-fabric.readthedocs.io/en/release-1.4/arch-deep-dive.html 
 
-## Fabric Connection Profile
-- https://hyperledger-fabric.readthedocs.io/en/release-2.2/developapps/connectionprofile.html# 
+## Fabric Consensus
+- https://www.researchgate.net/publication/347696254_PeerBFT_Making_Hyperledger_Fabric
+- https://arxiv.org/pdf/2107.06922.pdf
+
+## Fabric Deployment
+- https://medium.com/coinmonks/hyperledger-fabric-cluster-on-multiple-hosts-af093f00436 
+- https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/ 
+- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f 
+- https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d 
+- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
+- https://accenture.github.io/blog/2019/06/25/hl-fabric-meets-kubernetes.html 
+- http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/ 
+- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
+- https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
+- https://dzone.com/articles/implementing-multitenancy-on-hyperledger-fabric-us 
+- https://hyperledger.github.io/caliper-benchmarks/fabric/performance/
 
 ## Fabric ChainCodes
 - https://github.com/hyperledger/fabric-chaincode-java 
 - https://github.com/BhanuPrakashGuntupalli/MI-Block 
 - https://github.com/siyuyifang/lede-read 
 - https://github.com/EmanHerawy/hlf-lab 
-
-## Fabric Adding new Organisation
-- https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/ADDING_AN_ORG.md 
-
-## Fabric Adding a new Peer
-- https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/ADDING_A_PEER.md 
 
 ## Fabric ChainCode Best Practices
 - https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/UPDATING_CHAINCODE.md 
@@ -30,6 +38,30 @@ Awesome Aspects of Hyperledger Fabric
 - https://github.com/IBM/IBMDeveloper-recipes/blob/main/developing-backend-application-with-hyperledger-fabric-through-sdk/index.md 
 - https://www.oreilly.com/library/view/hands-on-blockchain-with/9781788994521/ca383f27-36e0-4fa5-a6b6-065f8f7d39cd.xhtml 
 - http://myhsts.org/tutorial-learn-how-to-compile-and-deploy-hyperledger-fabric-chaincode-and-smart-contracts.php 
+
+## Fabric Capacity Planning
+- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
+- https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
+
+## Fabric Performance 
+- https://www.hyperledger.org/learn/publications/blockchain-performance-metrics 
+- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
+- https://arxiv.org/pdf/1901.00910.pdf
+- https://arxiv.org/pdf/2008.05946.pdf
+- https://arxiv.org/pdf/2107.09886.pdf
+
+## Fabric Channels
+- https://kctheservant.medium.com/system-channel-and-application-channel-in-hyperledger-fabric-cbed3fab276b 
+- https://kctheservant.medium.com/data-privacy-among-organizations-channel-and-private-data-in-hyperledger-fabric-ee268cd44916 
+
+## Fabric Connection Profile
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/developapps/connectionprofile.html# 
+
+## Fabric Adding new Organisation
+- https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/ADDING_AN_ORG.md 
+
+## Fabric Adding a new Peer
+- https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/ADDING_A_PEER.md 
 
 ## Fabric Engineering
 - https://github.com/BCDevs/hlf-collections  
@@ -85,18 +117,6 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric SHA3 Support
 - https://lists.hyperledger.org/g/fabric/topic/why_sha3/17548899 
 
-## Fabric Capacity Planning
-- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
-- https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
-
-## Fabric Performance 
-- https://www.hyperledger.org/learn/publications/blockchain-performance-metrics 
-- https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
-
-## Fabric Channels
-- https://kctheservant.medium.com/system-channel-and-application-channel-in-hyperledger-fabric-cbed3fab276b 
-- https://kctheservant.medium.com/data-privacy-among-organizations-channel-and-private-data-in-hyperledger-fabric-ee268cd44916 
-
 ## Fabric Identity Mixer
 - https://jira.hyperledger.org/browse/FAB-9919 
 
@@ -108,19 +128,6 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Oracles
 - https://developer.ibm.com/articles/oracles-common-architectural-patterns-for-fabric/ 
-
-## Fabric Deployment
-- https://medium.com/coinmonks/hyperledger-fabric-cluster-on-multiple-hosts-af093f00436 
-- https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/ 
-- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f 
-- https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d 
-- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
-- https://accenture.github.io/blog/2019/06/25/hl-fabric-meets-kubernetes.html 
-- http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/ 
-- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
-- https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
-- https://dzone.com/articles/implementing-multitenancy-on-hyperledger-fabric-us 
-- https://hyperledger.github.io/caliper-benchmarks/fabric/performance/
 
 ## Fabric CA 
 - https://stackoverflow.com/questions/63303973/what-is-the-difference-between-ca-certificate-and-the-tls-certificate-in-fabric 

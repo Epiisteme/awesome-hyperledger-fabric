@@ -50,6 +50,7 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Transactions
 - https://arunrajeevan.medium.com/transaction-flow-in-hyperledger-b7f9ee43ad60
 - https://stackoverflow.com/questions/46253942/read-query-transaction-flow-in-hyperledger-fabric
+- https://stackoverflow.com/questions/43017514/roles-readwrite-in-hyperledger
 
 ## Fabric SDK
 - https://github.com/IBM/IBMDeveloper-recipes/blob/main/developing-backend-application-with-hyperledger-fabric-through-sdk/index.md 

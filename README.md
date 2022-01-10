@@ -50,6 +50,9 @@ Awesome Aspects of Hyperledger Fabric
 - https://blogs.sap.com/2020/01/23/hyperledger-fabric-chaincode-development-best-practices/ 
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/ 
 
+## ChainCode Security
+- https://github.com/hyperledger-labs/chaincode-analyzer
+
 ## Fabric Transactions
 - https://hyperledger-fabric.readthedocs.io/en/release-2.2/txflow.html
 - https://arunrajeevan.medium.com/transaction-flow-in-hyperledger-b7f9ee43ad60

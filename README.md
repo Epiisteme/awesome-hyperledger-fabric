@@ -48,6 +48,7 @@ Awesome Aspects of Hyperledger Fabric
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/ 
 
 ## Fabric Transactions
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/txflow.html
 - https://arunrajeevan.medium.com/transaction-flow-in-hyperledger-b7f9ee43ad60
 - https://stackoverflow.com/questions/46253942/read-query-transaction-flow-in-hyperledger-fabric
 - https://stackoverflow.com/questions/43017514/roles-readwrite-in-hyperledger

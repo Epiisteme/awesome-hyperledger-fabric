@@ -86,11 +86,14 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Clients
 - http://myhsts.org/tutorial-learn-how-to-design-front-end-application-with-hyperledger-fabric-through-sdk.php  
 
+## Fabric Wallets
+- https://hyperledger-fabric-doc.readthedocs.io/en/latest/developapps/wallet.html
+
 ## Fabric Privacy
 - https://github.com/hyperledger/fabric-private-chaincode 
 
 ## Fabric Security Model
-- https://hyperledger-fabric.readthedocs.io/en/latest/security_model.html?highlight=MSP 
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/security_model.html
 
 ## Fabric Storage
 - https://github.com/Deeptiman/offchaindata 

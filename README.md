@@ -47,6 +47,10 @@ Awesome Aspects of Hyperledger Fabric
 - https://blogs.sap.com/2020/01/23/hyperledger-fabric-chaincode-development-best-practices/ 
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/ 
 
+## Fabric Transactions
+- https://arunrajeevan.medium.com/transaction-flow-in-hyperledger-b7f9ee43ad60
+- https://stackoverflow.com/questions/46253942/read-query-transaction-flow-in-hyperledger-fabric
+
 ## Fabric SDK
 - https://github.com/IBM/IBMDeveloper-recipes/blob/main/developing-backend-application-with-hyperledger-fabric-through-sdk/index.md 
 
@@ -65,6 +69,7 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Engineering
 - https://github.com/BCDevs/hlf-collections  
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/orderer/ordering_service.html
 - https://medium.com/coinmonks/modifying-the-batch-size-in-hyperledger-fabric-v2-2-3ec2dd779e2b 
 
 ## Fabric Use Cases

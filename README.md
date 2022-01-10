@@ -1,6 +1,9 @@
 # awesome-hyperledger-fabric
 Awesome Aspects of Hyperledger Fabric
 
+## Protocol Specifications
+- https://github.com/diegomasini/hyperledger-fabric/blob/master/docs/protocol-spec.md
+
 ## Fabric Architecture
 - https://hyperledger-fabric.readthedocs.io/en/release-1.4/arch-deep-dive.html 
 

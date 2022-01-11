@@ -101,6 +101,9 @@ Awesome Aspects of Hyperledger Fabric
 - https://github.com/Deeptiman/offchaindata 
 - https://stackoverflow.com/questions/56662380/how-to-manage-off-chain-data-using-hyperledger-fabric  
 
+## Fabric on Cloud
+- https://aws.amazon.com/blogs/database/build-and-deploy-an-application-for-hyperledger-fabric-on-amazon-managed-blockchain/
+
 ## Fabric Tokens
 - https://github.com/hyperledger-labs/fabric-token-sdk 
 - https://github.com/pcluchet/ERC20_fullstack 

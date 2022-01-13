@@ -9,10 +9,13 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Consensus
 - https://www.researchgate.net/publication/347696254_PeerBFT_Making_Hyperledger_Fabric
+- https://kctheservant.medium.com/add-an-orderer-to-a-running-raft-based-orderer-cluster-b6a432da138c
+- https://medium.com/coinmonks/hyperledger-fabric-setup-with-multiple-peers-and-orderers-with-kafka-542023787a6d
 - https://arxiv.org/pdf/2107.06922.pdf
 
 ## Fabric Deployment
 - https://medium.com/coinmonks/hyperledger-fabric-cluster-on-multiple-hosts-af093f00436 
+- https://programmer.help/blogs/super-ledger-fabric-raft-multi-machine-cluster-deployment-tutorial.html
 - https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/ 
 - https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f 
 - https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d 
@@ -93,9 +96,10 @@ Awesome Aspects of Hyperledger Fabric
 - https://github.com/hyperledger/fabric-private-chaincode 
 
 ## Fabric Security 
-- https://hyperledger-fabric.readthedocs.io/en/release-2.2/security_model.html
 - https://github.com/hyperledger-labs/chaincode-analyzer
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/security_model.html
 - https://www.hyperledger.org/blog/2021/11/18/hyperledger-fabric-security-threats-what-to-look-for
+- https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-controls-checklist/
 
 ## Fabric Storage
 - https://github.com/Deeptiman/offchaindata 
@@ -118,9 +122,6 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Private Data Collection 
 - https://github.com/deepakhr1999/Blockchain-KYC 
-
-## Fabric Security Model
-- https://hyperledger-fabric.readthedocs.io/en/release-2.2/security_model.html 
 
 ## Fabric Offline Transactions
 - https://hyperledger.github.io/fabric-sdk-node/release-1.4/tutorial-sign-transaction-offline.html 

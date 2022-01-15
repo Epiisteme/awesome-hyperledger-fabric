@@ -66,6 +66,9 @@ Awesome Aspects of Hyperledger Fabric
 - https://kctheservant.medium.com/system-channel-and-application-channel-in-hyperledger-fabric-cbed3fab276b 
 - https://kctheservant.medium.com/data-privacy-among-organizations-channel-and-private-data-in-hyperledger-fabric-ee268cd44916 
 
+## Fabric LDAP Integration
+- https://medium.com/@aleksobol/hyperledger-fabric-with-ldap-integration-part-1-81c787dd78e0
+
 ## Fabric Connection Profile
 - https://hyperledger-fabric.readthedocs.io/en/release-2.2/developapps/connectionprofile.html# 
 

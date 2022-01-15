@@ -152,6 +152,9 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Oracles
 - https://developer.ibm.com/articles/oracles-common-architectural-patterns-for-fabric/ 
 
+## Fabric Firefly
+- https://github.com/hyperledger/firefly/issues/187
+
 ## Fabric CA 
 - https://stackoverflow.com/questions/63303973/what-is-the-difference-between-ca-certificate-and-the-tls-certificate-in-fabric 
 - https://hyperledger-fabric.readthedocs.io/en/latest/glossary.html?highlight=Certificate%20Authority#hyperledger-fabric-ca 

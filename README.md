@@ -92,6 +92,9 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Clients
 - http://myhsts.org/tutorial-learn-how-to-design-front-end-application-with-hyperledger-fabric-through-sdk.php  
 
+## Fabric Databases
+- https://jira.hyperledger.org/browse/FAB-3067
+
 ## Fabric Wallets
 - https://hyperledger-fabric-doc.readthedocs.io/en/latest/developapps/wallet.html
 

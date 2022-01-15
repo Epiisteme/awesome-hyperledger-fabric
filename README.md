@@ -107,6 +107,7 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric on Cloud
 - https://aws.amazon.com/blogs/database/build-and-deploy-an-application-for-hyperledger-fabric-on-amazon-managed-blockchain/
+- https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/security-iam.html#security_iam_authentication
 
 ## Fabric Tokens
 - https://github.com/hyperledger-labs/fabric-token-sdk 

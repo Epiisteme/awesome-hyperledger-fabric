@@ -89,6 +89,9 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Interoperability
 - https://github.com/hyperledger-labs/yui-ibc-solidity 
 
+## Fabric Authentication
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/identity/identity.html#authentication-public-keys-and-private-keys
+
 ## Fabric Clients
 - http://myhsts.org/tutorial-learn-how-to-design-front-end-application-with-hyperledger-fabric-through-sdk.php  
 

@@ -97,6 +97,7 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Security 
 - https://github.com/hyperledger-labs/chaincode-analyzer
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/hsm.html
 - https://hyperledger-fabric.readthedocs.io/en/release-2.2/security_model.html
 - https://www.hyperledger.org/blog/2021/11/18/hyperledger-fabric-security-threats-what-to-look-for
 - https://cloudsecurityalliance.org/artifacts/hyperledger-fabric-2-0-architecture-security-controls-checklist/

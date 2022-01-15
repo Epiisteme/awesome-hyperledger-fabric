@@ -97,6 +97,7 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Wallets
 - https://hyperledger-fabric-doc.readthedocs.io/en/latest/developapps/wallet.html
+- https://hyperledger.github.io/fabric-sdk-node/master/tutorial-wallet.html
 
 ## Fabric Privacy
 - https://github.com/hyperledger/fabric-private-chaincode 

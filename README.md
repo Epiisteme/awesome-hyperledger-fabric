@@ -31,6 +31,7 @@ Awesome Aspects of Hyperledger Fabric
 - https://www.hyperledger.org/learn/publications/blockchain-performance-metrics 
 - https://hyperledger.github.io/caliper-benchmarks/fabric/resources/pdf/Fabric_1.4.0_javascript_node.pdf
 - https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
+- https://stackoverflow.com/questions/54881754/hyperledger-fabric-ram-utilization-with-multiple-organizations
 - https://arxiv.org/pdf/1901.00910.pdf
 - https://arxiv.org/pdf/2008.05946.pdf
 - https://arxiv.org/pdf/2107.09886.pdf

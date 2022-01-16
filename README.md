@@ -37,6 +37,7 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Capacity Planning
 - https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
 - https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
+- https://lists.hyperledger.org/g/fabric/topic/compute_networking_and/17549605
 
 ## Fabric ChainCodes Implementations
 - https://github.com/hyperledger/fabric-chaincode-java 

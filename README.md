@@ -41,6 +41,8 @@ Awesome Aspects of Hyperledger Fabric
 - https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
 - https://stackoverflow.com/questions/45587653/what-are-hardware-requirements-to-run-hyperledger-fabric-peer
 - https://lists.hyperledger.org/g/fabric/topic/compute_networking_and/17549605
+- https://lists.hyperledger.org/g/fabric/topic/the_size_of_a_transaction/18093047?p=
+- https://lists.hyperledger.org/g/fabric/topic/22392464
 
 ## Fabric ChainCodes Implementations
 - https://github.com/hyperledger/fabric-chaincode-java 

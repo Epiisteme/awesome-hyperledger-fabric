@@ -4,3 +4,6 @@
 
 ## RAFT Consensus and Empty Blocks
 - https://www.kaleido.io/blockchain-blog/consensus-algorithms-poa-ibft-or-raft
+
+## Comaprison of Consensus Algorithms with RAFT
+- https://docs.chainstack.com/blockchains/quorum#consensus

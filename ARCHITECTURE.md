@@ -6,4 +6,5 @@
 - https://medium.com/coinmonks/system-chaincodes-in-hyperledger-fabric-vscc-escc-lscc-cscc-a48db4d24dc3
 
 ## Offchain Storage
+- https://deeptiman.medium.com/offchain-storage-in-hyperledger-fabric-77e28bd99e0c
 - https://hackernoon.com/making-a-case-for-offchain-storage-in-hyperledger-fabric-deep-dive-2f8g32v0

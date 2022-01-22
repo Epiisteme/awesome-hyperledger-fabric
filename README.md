@@ -57,6 +57,7 @@ Awesome Aspects of Hyperledger Fabric
 - http://myhsts.org/tutorial-learn-how-to-compile-and-deploy-hyperledger-fabric-chaincode-and-smart-contracts.php 
 - https://medium.com/@arora.aditya520/chaincode-writing-best-practices-hyperledger-fabric-43d2adffbeec 
 - https://blogs.sap.com/2020/01/23/hyperledger-fabric-chaincode-development-best-practices/ 
+- https://blogs.sap.com/2020/02/10/concurrency-patterns-for-hyperledger-fabric-go-chaincode/
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/ 
 
 ## Fabric Transactions

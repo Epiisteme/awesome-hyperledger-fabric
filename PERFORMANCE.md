@@ -1,4 +1,7 @@
 
+## Insights
+- 90% of the chaincode execution time was consumed by message transfers between the peer and the chaincode. 
+
 ## Question
 - What is the standard transaction payload size that we must consider?
 ### Answer
@@ -23,6 +26,3 @@
 
 ### Answer
 - Blocks are stored locally to disk on every ordering service node along with a LevelDB to index these blocks by number 
-- See orderer/ledger/file.
-
-

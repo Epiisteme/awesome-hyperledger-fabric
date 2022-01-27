@@ -8,3 +8,6 @@
 ## Offchain Storage
 - https://deeptiman.medium.com/offchain-storage-in-hyperledger-fabric-77e28bd99e0c
 - https://hackernoon.com/making-a-case-for-offchain-storage-in-hyperledger-fabric-deep-dive-2f8g32v0
+
+## Preventing Key Collisions
+- https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733

@@ -1,3 +1,4 @@
+# References
 
 ## Adding An Organisation
 - https://github.com/happilymarrieddad/k8s-hyperledger-fabric-2.2/blob/master/ADDING_AN_ORG.md
@@ -12,4 +13,30 @@
 - https://github.com/Karumba-PhD-UNSW/caliper-benchmarks/blob/master/networks/fabric/config_raft/configtx.yaml
 - https://github.com/sjlee1125/Multi-Host-Fabric-Network/blob/master/configtx.yaml
 - https://github.com/FujitsuLaboratories/ConnectionChain-sample/blob/master/environment/base/cc_env/yaml-files/configtx.yaml
+
+## Important Insights
+- https://www.mdpi.com/2076-3417/11/9/3870/htm
+
+### Block Size and Performance
+- It is found that the performance of Fabric increases with large Block size
+- It is demonstrated that Raft is superior to Kafka
+
+### Challenges for Scheduling Tasks
+- Fabric consists of heterogeneous components performing different operations, 
+- Hence it is difficult to apply the same scheduling policy to the Fabric components.
+- Peers consume 2.3 times the time slice than the orderers 
+- Fabric can experience performance degradation when components run with co-located tasks.
+
+## Questions and Answers
+
+### What are the conditions for generating blocks from transactions
+### Answer: 
+- the number of transactions in the block reaches the threshold
+- the block size attains the maximum value in bytes
+- certain time has passed since the first transaction of the new block was received. 
+
+### Why does peers take more time slice than orderers and chaincodes ?
+### Answer:
+- It is because peers perform verification of the client’s transaction proposals and validate new blocks. 
+
 

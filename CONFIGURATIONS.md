@@ -6,6 +6,9 @@
 ## Certificate Generation
 - https://medium.com/geekculture/certificate-generation-msp-tls-in-hyperledger-fabric-blockchain-ef7aef7bcc44
 
+## Security Configurations
+- https://espeoblockchain.com/blog/a-practical-guide-to-hyperledger-fabric-security
+
 ## Block Size and Block Timeout
 - Caliper Benchmark on Hyperldger Fabric
 - https://github.com/tittuvarghese/Caliper_HLF/blob/master/caliper-benchmarks/networks/fabric/config_raft/configtx.yaml

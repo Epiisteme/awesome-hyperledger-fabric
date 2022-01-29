@@ -42,4 +42,7 @@
 ### Answer:
 - It is because peers perform verification of the client’s transaction proposals and validate new blocks. 
 
-
+### What is state based endorsement policy?
+### Answer :
+- The state-based endorsement allows the default chaincode-level endorsement policies
+- It can be be overridden by a different policy for the specified keys.

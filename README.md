@@ -14,16 +14,16 @@ Awesome Aspects of Hyperledger Fabric
 - https://arxiv.org/pdf/2107.06922.pdf
 
 ## Fabric Deployment
-- https://medium.com/coinmonks/hyperledger-fabric-cluster-on-multiple-hosts-af093f00436 
-- https://programmer.help/blogs/super-ledger-fabric-raft-multi-machine-cluster-deployment-tutorial.html
-- https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/ 
-- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f 
 - https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d 
 - https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
+- https://programmer.help/blogs/super-ledger-fabric-raft-multi-machine-cluster-deployment-tutorial.html
+- https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
+- https://medium.com/coinmonks/hyperledger-fabric-cluster-on-multiple-hosts-af093f00436 
+- https://opensource.com/article/18/4/deploying-hyperledger-fabric-kubernetes
+- https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/ 
+- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f 
 - https://accenture.github.io/blog/2019/06/25/hl-fabric-meets-kubernetes.html 
 - http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/ 
-- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii 
-- https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/ 
 - https://dzone.com/articles/implementing-multitenancy-on-hyperledger-fabric-us 
 - https://hyperledger.github.io/caliper-benchmarks/fabric/performance/
 

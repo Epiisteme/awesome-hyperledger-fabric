@@ -16,3 +16,13 @@
 - Reference >> https://ibm.github.io/hlf-internals/shim-architecture/interaction-flow/transaction-processing/
 - Transaction proposals are executed asynchronously leaving main thread to process other requests
 - Chaincode initialisation and transaction execution is handled differently
+
+## Lifecycle of Chaincode
+- Chaincode setup, gRPC communication, protocol execution, interfacing, configuration, business logic
+- deserialisation (unmarshalling) of the ChaincodeInput instance from the ChaincodeMessage payload;
+- creation of a new instance of the ChaincodeStub and configuration of the transaction context 
+- It comprises of channel identifier, transaction identifier, input (i.e. ChaincodeInput) and signed proposal;
+- invocation of the Chaincode.Init(ChaincodeStub) or Chaincode.Invoke(ChaincodeStub) method.
+
+## Chaincode and gRPC
+- bidirectional communication stream with the peer

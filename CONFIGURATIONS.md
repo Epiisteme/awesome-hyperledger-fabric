@@ -12,6 +12,9 @@
 ## Security Configurations
 - https://espeoblockchain.com/blog/a-practical-guide-to-hyperledger-fabric-security
 
+## Custom Endorsement Policies
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/pluggable_endorsement_and_validation.html
+
 ## Block Size and Block Timeout
 - Caliper Benchmark on Hyperldger Fabric
 - https://github.com/tittuvarghese/Caliper_HLF/blob/master/caliper-benchmarks/networks/fabric/config_raft/configtx.yaml

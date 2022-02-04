@@ -26,3 +26,6 @@
 
 ## Chaincode and gRPC
 - bidirectional communication stream with the peer
+
+## Chaincode and Shim concepts
+- The shim is responsible for starting and coordinating the interaction between the Chaincode implementation and the peer the process is connected to. 

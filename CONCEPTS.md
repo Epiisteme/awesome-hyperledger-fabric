@@ -29,3 +29,7 @@
 
 ## Chaincode and Shim concepts
 - The shim is responsible for starting and coordinating the interaction between the Chaincode implementation and the peer the process is connected to. 
+
+## Defining Anchor Peers
+- Once a peer is defined as an anchor peer for a channel - it automatically is anchor peer for all other channels that it participates in. 
+- The anchor tracking is being done at org msp level, even thouh it is defined at channel level.

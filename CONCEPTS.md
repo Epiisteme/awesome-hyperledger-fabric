@@ -28,7 +28,7 @@
 - bidirectional communication stream with the peer
 
 ## Chaincode and Shim concepts
-- The shim is responsible for starting and coordinating the interaction between the Chaincode implementation and the peer the process is connected to. 
+- The shim is responsible for starting and coordinating the interaction between the Chaincode implementation and the peer processes. 
 
 ## Defining Anchor Peers
 - Once a peer is defined as an anchor peer for a channel - it automatically is anchor peer for all other channels that it participates in. 

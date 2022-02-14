@@ -1,5 +1,8 @@
 # References
 
+## External Chaincodes
+- https://saifworks.hashnode.dev/external-chaincode-launcher-hyperledger-fabric
+
 ## Migration from Raft to Kafka
 - https://www.altoros.com/blog/consensus-in-hyperledger-fabric-migrating-from-kafka-to-raft/
 

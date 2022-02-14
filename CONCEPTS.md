@@ -49,3 +49,7 @@
 - It is the construction of a snapshot of a channel at a particular block height
 - Using this peers can join a channel using snapshot as a starting date
 - This is the ability to bootstrap a peer from latest channel configurations
+
+## On Private Data Purge
+- a new operation to purge the private data via chaincode shim that allows the deletion of private data keys from the statedb
+- It also enable purging of all the historical versions of the supplied keys from the private data store permanently.

@@ -33,3 +33,14 @@
 ## Defining Anchor Peers
 - Once a peer is defined as an anchor peer for a channel - it automatically is anchor peer for all other channels that it participates in. 
 - The anchor tracking is being done at org msp level, even thouh it is defined at channel level.
+
+## On Fabric Gateway
+- The Gateway runs as a gRPC server 
+- The client credentials are never passed to the Gateway
+
+## On Fabric Client
+- Client applications are responsible for managaing their user keys
+- Client applications can use the SDK Wallets for this purpose
+
+## On Ledger Snapshot
+- A set of files containing all the necessary information for OSN to join a channel from an arbitrary block.

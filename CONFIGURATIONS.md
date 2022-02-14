@@ -1,5 +1,8 @@
 # References
 
+## Migration from Raft to Kafka
+- https://www.altoros.com/blog/consensus-in-hyperledger-fabric-migrating-from-kafka-to-raft/
+
 ## Deployment on Multiple Hosts
 - https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
 

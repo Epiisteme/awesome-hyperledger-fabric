@@ -1,5 +1,8 @@
 # References
 
+## Deployment on Multiple Hosts
+- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
+
 ## Multiple Orderer Organisations
 - https://stackoverflow.com/questions/61592219/multiple-orderer-organizations
 

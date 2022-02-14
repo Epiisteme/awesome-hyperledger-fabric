@@ -7,3 +7,6 @@
 
 ## Issue with the periodic update of Chaincode State
 - https://stackoverflow.com/questions/37348651/cannot-put-state-in-query-context
+
+## Issues with Peer memory spikes while deploying node chaincode on v1.4.x. 
+- https://jira.hyperledger.org/browse/FAB-17444?jql=text%20~%20Kubernetes%20ORDER%20BY%20created%20DESC

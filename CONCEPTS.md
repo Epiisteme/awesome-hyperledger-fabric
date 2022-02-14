@@ -44,3 +44,8 @@
 
 ## On Ledger Snapshot
 - A set of files containing all the necessary information for OSN to join a channel from an arbitrary block.
+
+## On Ledger Checkpointing
+- It is the construction of a snapshot of a channel at a particular block height
+- Using this peers can join a channel using snapshot as a starting date
+- This is the ability to bootstrap a peer from latest channel configurations

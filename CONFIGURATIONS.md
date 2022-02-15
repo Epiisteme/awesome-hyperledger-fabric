@@ -2,6 +2,7 @@
 
 ## External Chaincodes
 - https://saifworks.hashnode.dev/external-chaincode-launcher-hyperledger-fabric
+- https://dev.to/vanitas92/how-to-implement-hyperledger-fabric-external-chaincodes-within-a-kubernetes-cluster-34de
 
 ## Migration from Raft to Kafka
 - https://www.altoros.com/blog/consensus-in-hyperledger-fabric-migrating-from-kafka-to-raft/

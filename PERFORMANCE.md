@@ -1,6 +1,6 @@
 
 ## Insights
-- 90% of the chaincode execution time was consumed by message transfers between the peer and the chaincode. 
+- 90% of the chaincode execution time is consumed by message transfers between the peer and the chaincode. 
 
 ## Question
 - What is the standard transaction payload size that we must consider?

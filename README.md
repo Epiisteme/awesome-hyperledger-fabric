@@ -40,8 +40,9 @@ Awesome Aspects of Hyperledger Fabric
 - https://www.ibm.com/blogs/blockchain/2019/01/answering-your-questions-on-hyperledger-fabric-performance-and-scale/ 
 - https://blog.bybit.com/en-us/learn/blockchain-performance-and-scalability-hyperledger-fabric/ 
 - https://stackoverflow.com/questions/45587653/what-are-hardware-requirements-to-run-hyperledger-fabric-peer
+- https://lists.hyperledger.org/g/fabric/topic/scalability_of_state_database/24228545
 - https://lists.hyperledger.org/g/fabric/topic/compute_networking_and/17549605
-- https://lists.hyperledger.org/g/fabric/topic/the_size_of_a_transaction/18093047?p=
+- https://lists.hyperledger.org/g/fabric/topic/the_size_of_a_transaction/18093047
 - https://lists.hyperledger.org/g/fabric/topic/22392464
 
 ## Fabric ChainCodes Implementations

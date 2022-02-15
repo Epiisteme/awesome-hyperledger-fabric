@@ -25,3 +25,6 @@
 
 ## Issue with Raft log replication when TLS is enabled
 - https://jira.hyperledger.org/browse/FAB-18388
+
+## Issue with CouchDB heap allocation
+- https://stackoverflow.com/questions/53386566/hyperledger-fabric-couchdb-heap-allocation-fail-crash

@@ -28,3 +28,6 @@
 
 ## Issue with CouchDB heap allocation
 - https://stackoverflow.com/questions/53386566/hyperledger-fabric-couchdb-heap-allocation-fail-crash
+
+## Issues with the Private Data Sync in the version upgrade from 1.6 to 2.0
+- https://jira.hyperledger.org/browse/FAB-17816

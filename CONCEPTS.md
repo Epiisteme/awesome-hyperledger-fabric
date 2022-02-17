@@ -2,6 +2,9 @@
 ## Introduction
 - https://xord.com/publications/hyperledger-fabric-architecture-a-deep-dive/
 
+## Composite Keys in Chaincodes
+- https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
+
 ## System ChainCodes
 - https://medium.com/coinmonks/system-chaincodes-in-hyperledger-fabric-vscc-escc-lscc-cscc-a48db4d24dc3
 

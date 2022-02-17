@@ -31,3 +31,7 @@
 
 ## Issues with the Private Data Sync in the version upgrade from 1.6 to 2.0
 - https://jira.hyperledger.org/browse/FAB-17816
+
+## Issues with Composite Keys in Hyperledger Fabric
+- https://jira.hyperledger.org/browse/FAB-2183
+- https://jira.hyperledger.org/browse/FAB-18355

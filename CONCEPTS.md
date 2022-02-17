@@ -16,6 +16,8 @@
 - https://medium.com/@gatakka/how-to-prevent-key-collisions-in-hyperledger-fabric-chaincode-303700716733
 
 ## Concurrency in Chaincodes
+- https://blog.softwaremill.com/concurrent-smart-contracts-in-hyperledger-fabric-blockchain-part-1-bba32b2c0e08
+- https://blog.softwaremill.com/concurrent-smart-contracts-in-hyperledger-fabric-blockchain-part-2-fc09af32e48d
 - Reference >> https://ibm.github.io/hlf-internals/shim-architecture/interaction-flow/transaction-processing/
 - Transaction proposals are executed asynchronously leaving main thread to process other requests
 - Chaincode initialisation and transaction execution is handled differently

@@ -5,6 +5,11 @@
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
 
+## External Chaincodes
+- https://www.blockchainexpert.uk/blog/external-chaincode-service-in-hyperledger-fabric
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/cc_launcher.html
+- https://github.com/vanitas92/fabric-external-chaincodes
+
 ## System ChainCodes
 - https://medium.com/coinmonks/system-chaincodes-in-hyperledger-fabric-vscc-escc-lscc-cscc-a48db4d24dc3
 

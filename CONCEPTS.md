@@ -75,3 +75,6 @@
 
 ## On Range Queries
 - Range queries supported by fabric chaincode use Merkle trees to optimize storage of a range of keys read in a transaction.
+
+## On Locking Mechanisms
+- Hyperledger Fabric uses an Optimistic Locking Model while committing transactions.

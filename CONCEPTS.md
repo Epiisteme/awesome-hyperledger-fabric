@@ -5,6 +5,9 @@
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
 
+## Iterators and Chaincodes
+- https://hyperledger.github.io/fabric-chaincode-node/release-2.2/api/tutorial-using-iterators.html
+
 ## Cross Channel Chaincodes
 - https://github.com/asararatnakar/fabric_v1_Chaincode_instructions/blob/master/call-chaincode-to-chaincode-nondefault-chain.md
 - https://stackoverflow.com/questions/58163924/is-there-a-best-practice-to-invoke-cross-channel-transaction

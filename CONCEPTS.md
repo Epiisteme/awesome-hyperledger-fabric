@@ -72,3 +72,6 @@
 ## On Private Data Purge
 - a new operation to purge the private data via chaincode shim that allows the deletion of private data keys from the statedb
 - It also enable purging of all the historical versions of the supplied keys from the private data store permanently.
+
+## On Range Queries
+- Range queries supported by fabric chaincode use Merkle trees to optimize storage of a range of keys read in a transaction.

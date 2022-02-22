@@ -11,6 +11,7 @@
 ## Cross Channel Chaincodes
 - https://github.com/asararatnakar/fabric_v1_Chaincode_instructions/blob/master/call-chaincode-to-chaincode-nondefault-chain.md
 - https://stackoverflow.com/questions/58163924/is-there-a-best-practice-to-invoke-cross-channel-transaction
+- https://arnabkaycee.github.io/fabric-cc-best-practices-golang/
 - https://jira.hyperledger.org/browse/FAB-1788
 
 ## External Chaincodes

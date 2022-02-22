@@ -5,6 +5,10 @@
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
 
+## Cross Channel Chaincodes
+- https://github.com/asararatnakar/fabric_v1_Chaincode_instructions/blob/master/call-chaincode-to-chaincode-nondefault-chain.md
+- https://jira.hyperledger.org/browse/FAB-1788
+
 ## External Chaincodes
 - https://www.blockchainexpert.uk/blog/external-chaincode-service-in-hyperledger-fabric
 - https://hyperledger-fabric.readthedocs.io/en/release-2.2/cc_launcher.html

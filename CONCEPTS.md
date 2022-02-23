@@ -48,7 +48,7 @@
 
 ## Chaincode and Shim concepts
 - The shim is responsible for starting and coordinating the interaction between the Chaincode implementation and the peer processes. 
-- Golang structs are required to be marshalled to JSON string before putting into chaincode state and unmarshalled after receiving from state.
+- Structs are required to be marshalled to JSON string before putting into chaincode state and unmarshalled after receiving from state.
 
 ## Defining Anchor Peers
 - Once a peer is defined as an anchor peer for a channel - it automatically is anchor peer for all other channels that it participates in. 

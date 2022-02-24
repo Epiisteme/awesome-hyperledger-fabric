@@ -9,3 +9,6 @@
 ## Migration from 1.4 to 2.0
 - Upgrade all the orderer service nodes
 - Upgrade all the peers 
+
+## References
+- https://stackoverflow.com/questions/67984442/issue-while-upgrading-fabric-from-1-4-4-to-2-2

@@ -7,6 +7,7 @@
 
 ## Event Listners
 - https://medium.com/@jushuspace/hyperledger-fabric-event-listener-tutorial-2484614a9e4
+- https://stackoverflow.com/questions/48558344/hyperledger-fabric-chaincode-events
 - https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric
 
 ## Iterators and Chaincodes

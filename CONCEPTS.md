@@ -5,6 +5,9 @@
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
 
+## Tokens in Fabric System
+- https://medium.com/coinmonks/the-secret-gem-of-hyperleder-fabric-fabtoken-aa5c37159247
+
 ## Event Listners
 - https://medium.com/@jushuspace/hyperledger-fabric-event-listener-tutorial-2484614a9e4
 - https://medium.com/coinmonks/tutorial-chaincode-event-listener-on-hyperledger-fabric-java-sdk-557304f1fe28

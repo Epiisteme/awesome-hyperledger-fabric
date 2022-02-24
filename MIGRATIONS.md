@@ -12,3 +12,4 @@
 
 ## References
 - https://stackoverflow.com/questions/67984442/issue-while-upgrading-fabric-from-1-4-4-to-2-2
+- https://hyperledger-fabric.readthedocs.io/en/release-2.2/upgrade_to_newest_version.html

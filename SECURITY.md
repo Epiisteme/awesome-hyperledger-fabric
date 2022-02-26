@@ -1,4 +1,10 @@
 
+## Fabric Security Issues
+- https://arxiv.org/pdf/2109.03574.pdf
+
+## Fuzzing Fabric Chaincodes
+- https://arxiv.org/pdf/2106.11210.pdf
+
 ## Fabric SGX Integration
 - https://lists.hyperledger.org/g/fabric/topic/hyperledger_fabric_and_intel/20008397
 

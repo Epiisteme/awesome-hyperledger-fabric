@@ -7,12 +7,13 @@
 
 ## Tokens in Fabric System
 - https://medium.com/coinmonks/the-secret-gem-of-hyperleder-fabric-fabtoken-aa5c37159247
+- https://medium.com/@blockchain_simplified/creating-tokens-on-hyperledger-fabric-2-0-using-fabtoken-management-system-3c9689c0a99d
 
 ## Event Listners
 - https://medium.com/@jushuspace/hyperledger-fabric-event-listener-tutorial-2484614a9e4
 - https://medium.com/coinmonks/tutorial-chaincode-event-listener-on-hyperledger-fabric-java-sdk-557304f1fe28
 - https://stackoverflow.com/questions/48558344/hyperledger-fabric-chaincode-events
-- https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric
+- https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric\
 
 ## Iterators and Chaincodes
 - https://hyperledger.github.io/fabric-chaincode-node/release-2.2/api/tutorial-using-iterators.html

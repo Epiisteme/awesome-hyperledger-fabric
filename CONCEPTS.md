@@ -19,6 +19,7 @@
 
 ## Cross Channel Chaincodes
 - https://github.com/asararatnakar/fabric_v1_Chaincode_instructions/blob/master/call-chaincode-to-chaincode-nondefault-chain.md
+- https://github.com/thaonguyentien/BC/blob/d1104a2ba5c9bb5b605d607e4c9f0d9317934524/fabric-k8s/chaincode/crosschaincode/crosschaincode.go
 - https://stackoverflow.com/questions/58163924/is-there-a-best-practice-to-invoke-cross-channel-transaction
 - https://arnabkaycee.github.io/fabric-cc-best-practices-golang/
 - https://github.com/lushena/fabric-cross-agent

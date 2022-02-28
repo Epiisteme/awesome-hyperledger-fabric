@@ -111,6 +111,8 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Databases
 - https://jira.hyperledger.org/browse/FAB-3067
+- https://deeptiman.medium.com/couchdb-as-a-state-database-in-hyperledger-fabric-adb5d820c82e 
+- https://medium.com/wearetheledger/hyperledger-fabric-couchdb-fantastic-queries-and-where-to-find-them-f8a3aecef767
 
 ## Fabric Wallets
 - https://hyperledger-fabric-doc.readthedocs.io/en/latest/developapps/wallet.html
@@ -184,6 +186,3 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Offchain
 - https://blocking.net/34611/technical-guide-how-to-implement-off-chain-storage-on-hyperledger-fabric/ 
-
-## Fabric State Database
-- https://deeptiman.medium.com/couchdb-as-a-state-database-in-hyperledger-fabric-adb5d820c82e 

@@ -6,8 +6,10 @@ Awesome Aspects of Hyperledger Fabric
 
 ## Fabric Architecture
 - https://hyperledger-fabric.readthedocs.io/en/release-1.4/arch-deep-dive.html 
+- https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040
 
 ## Fabric Consensus
+- https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e
 - https://www.researchgate.net/publication/347696254_PeerBFT_Making_Hyperledger_Fabric
 - https://kctheservant.medium.com/add-an-orderer-to-a-running-raft-based-orderer-cluster-b6a432da138c
 - https://medium.com/coinmonks/hyperledger-fabric-setup-with-multiple-peers-and-orderers-with-kafka-542023787a6d

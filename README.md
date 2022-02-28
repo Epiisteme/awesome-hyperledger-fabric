@@ -7,6 +7,7 @@ Awesome Aspects of Hyperledger Fabric
 ## Fabric Architecture
 - https://hyperledger-fabric.readthedocs.io/en/release-1.4/arch-deep-dive.html 
 - https://medium.com/wearetheledger/hyperledger-fabric-concurrency-really-eccd901e4040
+- https://medium.com/coinmonks/demystifying-hyperledger-fabric-3-3-network-traffic-handling-service-discovery-and-operations-f9a2046b4067
 
 ## Fabric Consensus
 - https://medium.com/kokster/understanding-hyperledger-fabric-gossip-512a217d5d1e

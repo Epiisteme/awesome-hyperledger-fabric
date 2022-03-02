@@ -1,6 +1,9 @@
 # awesome-hyperledger-fabric
 Awesome Aspects of Hyperledger Fabric
 
+## GitHub repository
+- https://github.com/wearetheledger/awesome-hyperledger-fabric
+
 ## Protocol Specifications
 - https://github.com/diegomasini/hyperledger-fabric/blob/master/docs/protocol-spec.md
 

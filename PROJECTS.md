@@ -270,7 +270,18 @@ peer channel update -f channel-artifacts/config_update_in_envelope_c2.pb -c chan
 2022-03-05 17:04:43.556 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 Blockchain info: {"height":3,"currentBlockHash":"GidlgCg1kt55H7Zh0NwBdGSYCYoyP+E5/6Y8PUX3sH8=","previousBlockHash":"dKDz24FuiLvFeI7KglhCsT7+h9mS7hO/Jle999rHTW0="}
 
+
 ./network.sh deployCC -ccn basic -ccp ../token-erc-20/chaincode-go -ccl go -c channel1
+
+./network.sh deployCC -ccn basic2 -ccp ../asset-transfer-basic/chaincode-go/ -ccl go -c channel1
+
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "$ORDERER_CA" -C channel1 -n basic2 --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"function":"InitLedger","Args":[]}'
+
+peer chaincode query -C channel1 -n basic2 -c '{"Args":["getAllAssets"]}'
+
+[{"AppraisedValue":300,"Color":"blue","ID":"asset1","Owner":"Tomoko","Size":5},{"AppraisedValue":400,"Color":"red","ID":"asset2","Owner":"Brad","Size":5},{"AppraisedValue":500,"Color":"green","ID":"asset3","Owner":"Jin Soo","Size":10},{"AppraisedValue":600,"Color":"yellow","ID":"asset4","Owner":"Max","Size":10},{"AppraisedValue":700,"Color":"black","ID":"asset5","Owner":"Adriana","Size":15},{"AppraisedValue":800,"Color":"white","ID":"asset6","Owner":"Michel","Size":15}]
+
+
 
 ## References 
 - https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/get-started-chaincode.html

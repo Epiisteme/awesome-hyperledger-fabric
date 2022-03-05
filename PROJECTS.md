@@ -15,10 +15,10 @@ export PATH=${PWD}/../bin:$PATH
 export FABRIC_CFG_PATH=${PWD}/configtx
 
 
-## Creating Channel 1
+## Generating Genesis Block for Channel 1
 configtxgen -profile TwoOrgsApplicationGenesis -outputBlock ./channel-artifacts/channel1.block -channelID channel1
 
-## Creating Channel 2
+## Generating Genesis Block for Channel 2
 configtxgen -profile TwoOrgsApplicationGenesis -outputBlock ./channel-artifacts/channel2.block -channelID channel2
 
 export ORDERER_CA=${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
@@ -97,7 +97,6 @@ peer channel join -b ./channel-artifacts/channel1.block
 2022-03-05 13:24:33.450 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 2022-03-05 13:24:33.832 IST 0002 INFO [channelCmd] executeJoin -> Successfully submitted proposal to join channel
 
-
 peer channel join -b ./channel-artifacts/channel2.block
 
 2022-03-05 13:24:52.586 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
@@ -114,7 +113,6 @@ peer channel fetch config channel-artifacts/config_block_c1.pb -o localhost:7050
 2022-03-05 13:35:35.520 IST 0002 INFO [cli.common] readBlock -> Received block: 0
 2022-03-05 13:35:35.520 IST 0003 INFO [channelCmd] fetch -> Retrieving last config block: 0
 2022-03-05 13:35:35.521 IST 0004 INFO [cli.common] readBlock -> Received block: 0
-
 
 configtxlator proto_decode --input config_block_c1.pb --type common.Block --output config_block_c1.json
 jq '.data.data[0].payload.data.config' config_block_c1.json > config_c1.json

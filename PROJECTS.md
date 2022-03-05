@@ -102,6 +102,8 @@ peer channel join -b ./channel-artifacts/channel2.block
 2022-03-05 13:24:52.586 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 2022-03-05 13:24:52.837 IST 0002 INFO [channelCmd] executeJoin -> Successfully submitted proposal to join channel
 
+## Anchor Peer Update for the Org1
+
 export CORE_PEER_LOCALMSPID="Org1MSP"
 export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
 export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
@@ -172,7 +174,7 @@ peer channel update -f channel-artifacts/config_update_in_envelope_c2.pb -c chan
 2022-03-05 14:01:33.219 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 2022-03-05 14:01:33.224 IST 0002 INFO [channelCmd] update -> Successfully submitted channel update
 
-Anchor Peer Update for the Organisation 2
+## Anchor Peer Update for the Org2
 
 export CORE_PEER_LOCALMSPID="Org2MSP"
 export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt

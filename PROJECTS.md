@@ -270,6 +270,7 @@ peer channel update -f channel-artifacts/config_update_in_envelope_c2.pb -c chan
 2022-03-05 17:04:43.556 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 Blockchain info: {"height":3,"currentBlockHash":"GidlgCg1kt55H7Zh0NwBdGSYCYoyP+E5/6Y8PUX3sH8=","previousBlockHash":"dKDz24FuiLvFeI7KglhCsT7+h9mS7hO/Jle999rHTW0="}
 
+./network.sh deployCC -ccn basic -ccp ../token-erc-20/chaincode-go -ccl go -c channel1
 
 ## References 
 - https://docs.aws.amazon.com/managed-blockchain/latest/hyperledger-fabric-dev/get-started-chaincode.html

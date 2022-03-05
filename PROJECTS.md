@@ -5,27 +5,27 @@
 - docker exec cli peer lifecycle chaincode package ./fabtrip.tar.gz --path fabric-samples/chaincode/fabcar/go/ --label fabtrip
 - docker exec cli peer lifecycle chaincode queryinstalled
 
+## Brought up the test network
+cd fabric-samples/test-network
+./network.sh down
+./network.sh up
+
+## Enabled ConfigTxgen Path
+export PATH=${PWD}/../bin:$PATH
+export FABRIC_CFG_PATH=${PWD}/configtx
 
 
-Brought up the test network
-Enabled ConfigTxgen Path
-
-Creating Channel 1
-
+## Creating Channel 1
 configtxgen -profile TwoOrgsApplicationGenesis -outputBlock ./channel-artifacts/channel1.block -channelID channel1
 
-Creating Channel 2
-
+## Creating Channel 2
 configtxgen -profile TwoOrgsApplicationGenesis -outputBlock ./channel-artifacts/channel2.block -channelID channel2
-
-
 
 export ORDERER_CA=${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem
 export ORDERER_ADMIN_TLS_SIGN_CERT=${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.crt
 export ORDERER_ADMIN_TLS_PRIVATE_KEY=${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/tls/server.key
 
-
-
+## OSN Admin Steps for Channel 1
 osnadmin channel join --channelID channel1 --config-block ./channel-artifacts/channel1.block -o localhost:7053 --ca-file "$ORDERER_CA" --client-cert "$ORDERER_ADMIN_TLS_SIGN_CERT" --client-key "$ORDERER_ADMIN_TLS_PRIVATE_KEY"
 
 Status: 201
@@ -37,8 +37,7 @@ Status: 201
 	"height": 1
 }
 
-
-
+## OSN Admin Steps for Channel 2
 osnadmin channel join --channelID channel2 --config-block ./channel-artifacts/channel2.block -o localhost:7053 --ca-file "$ORDERER_CA" --client-cert "$ORDERER_ADMIN_TLS_SIGN_CERT" --client-key "$ORDERER_ADMIN_TLS_PRIVATE_KEY"
 
 Status: 201
@@ -74,16 +73,14 @@ export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org1.e
 export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
 export CORE_PEER_ADDRESS=localhost:7051
 
-Peer Joining the Channel 1 
-
+## Peer Joining the Channel 1 
 peer channel join -b ./channel-artifacts/channel1.block
 
 2022-03-05 13:19:31.067 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized
 2022-03-05 13:19:31.318 IST 0002 INFO [channelCmd] executeJoin -> Successfully submitted proposal to join channel
 
 
-Peer Joining Channel 2
-
+## Peer Joining Channel 2
 peer channel join -b ./channel-artifacts/channel2.block
 
 2022-03-05 13:19:49.080 IST 0001 INFO [channelCmd] InitCmdFactory -> Endorser and orderer connections initialized

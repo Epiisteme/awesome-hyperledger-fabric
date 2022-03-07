@@ -13,7 +13,8 @@
 - https://medium.com/@jushuspace/hyperledger-fabric-event-listener-tutorial-2484614a9e4
 - https://medium.com/coinmonks/tutorial-chaincode-event-listener-on-hyperledger-fabric-java-sdk-557304f1fe28
 - https://stackoverflow.com/questions/48558344/hyperledger-fabric-chaincode-events
-- https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric\
+- https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric
+- https://ibm.github.io/hlf-internals/shim-architecture/interaction-flow/chaincode-events/
 
 ## Iterators and Chaincodes
 - https://hyperledger.github.io/fabric-chaincode-node/release-2.2/api/tutorial-using-iterators.html

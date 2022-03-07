@@ -18,6 +18,10 @@
 ## Iterators and Chaincodes
 - https://hyperledger.github.io/fabric-chaincode-node/release-2.2/api/tutorial-using-iterators.html
 
+## Interchaincode invocation
+- https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/chaincodenamespace.html#cross-chaincode-access
+- https://stackoverflow.com/questions/67070302/how-to-use-invokechaincode-api
+
 ## Cross Channel Chaincodes
 - https://github.com/asararatnakar/fabric_v1_Chaincode_instructions/blob/master/call-chaincode-to-chaincode-nondefault-chain.md
 - https://github.com/thaonguyentien/BC/blob/d1104a2ba5c9bb5b605d607e4c9f0d9317934524/fabric-k8s/chaincode/crosschaincode/crosschaincode.go

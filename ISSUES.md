@@ -1,3 +1,6 @@
+## Fabric CA Client Reenrollment
+- https://github.com/hyperledger/fabric-sdk-node/issues/513
+
 ## Issues with Fabric SDK and Fabric CA
 - https://jira.hyperledger.org/browse/FABG-903
 

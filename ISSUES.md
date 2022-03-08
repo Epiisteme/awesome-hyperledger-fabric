@@ -1,4 +1,4 @@
-## Issues with Fabric SDK and fabric ca
+## Issues with Fabric SDK and Fabric CA
 - https://jira.hyperledger.org/browse/FABG-903
 
 ## Issues with the usage of randomness

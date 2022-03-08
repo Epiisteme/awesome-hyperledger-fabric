@@ -1,3 +1,6 @@
+## Fabric CA Server and Cloud HSM
+- https://github.com/hyperledger/fabric-ca/issues/259
+
 ## Fabric CA Client Reenrollment
 - https://github.com/hyperledger/fabric-sdk-node/issues/513
 

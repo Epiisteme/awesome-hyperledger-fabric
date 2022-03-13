@@ -10,6 +10,9 @@
 ## Wallet Migration for Hyperledger Fabric
 - https://github.com/bestbeforetoday/fabric-wallet-migration
 
+## Wallet on PostgreSQL
+- https://github.com/IBM/fabric-postgres-wallet
+
 ## Event Listner using NodeJS
 - https://stackoverflow.com/questions/48113461/hosting-event-listener-app-in-node-js
 - https://programmer.group/how-hyperledger-fabric-node.js-uses-channel-based-event-services.html

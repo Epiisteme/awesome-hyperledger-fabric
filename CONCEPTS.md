@@ -4,6 +4,7 @@
 
 ## Wallets
 - https://stackoverflow.com/questions/55358598/what-is-the-difference-between-a-cryptokeystore-and-a-wallet-in-hyperledger-fabr
+- https://github.com/IBM/fabric-postgres-wallet
 
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger

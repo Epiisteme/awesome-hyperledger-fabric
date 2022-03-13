@@ -2,6 +2,9 @@
 ## Introduction
 - https://xord.com/publications/hyperledger-fabric-architecture-a-deep-dive/
 
+## Wallets
+- https://stackoverflow.com/questions/55358598/what-is-the-difference-between-a-cryptokeystore-and-a-wallet-in-hyperledger-fabr
+
 ## Composite Keys in Chaincodes
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
 

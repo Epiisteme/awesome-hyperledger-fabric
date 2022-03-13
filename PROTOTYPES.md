@@ -7,8 +7,8 @@
 ## Hash Time Locks on Hyperledger Fabric
 - https://github.com/ehousecy/htlc-samples
 
-## Wallet Creation on Hyperledger Fabric
-- https://stackoverflow.com/questions/55358598/what-is-the-difference-between-a-cryptokeystore-and-a-wallet-in-hyperledger-fabr
+## Wallet Migration for Hyperledger Fabric
+- https://github.com/bestbeforetoday/fabric-wallet-migration
 
 ## Event Listner using NodeJS
 - https://stackoverflow.com/questions/48113461/hosting-event-listener-app-in-node-js

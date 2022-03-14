@@ -28,6 +28,7 @@
 - https://stackoverflow.com/questions/46462151/how-to-listen-to-the-eventcommit-event-in-hyperledger-fabric
 - https://ibm.github.io/hlf-internals/shim-architecture/interaction-flow/chaincode-events/
 - https://stackoverflow.com/questions/54092643/when-does-blockevent-listener-being-triggered-during-the-lifecycle-of-the-transa
+- https://stackoverflow.com/questions/51383181/listen-to-a-custom-chaincode-event-in-hyperledger-fabric/51406190#51406190
 
 ## Iterators and Chaincodes
 - https://hyperledger.github.io/fabric-chaincode-node/release-2.2/api/tutorial-using-iterators.html

@@ -10,6 +10,7 @@
 
 ## Wallets
 - https://stackoverflow.com/questions/55358598/what-is-the-difference-between-a-cryptokeystore-and-a-wallet-in-hyperledger-fabr
+- https://stackoverflow.com/questions/64202435/accessing-private-keys-in-hyperledger-fabric-2-0-from-a-webclient-using-javascri
 - https://github.com/FahimDev/Private-Blockchain-SampleWallet
 - https://github.com/IBM/fabric-postgres-wallet
 
@@ -107,3 +108,8 @@
 
 ## On Locking Mechanisms
 - Hyperledger Fabric uses an Optimistic Locking Model while committing transactions.
+
+## On Wallets
+- If you have access to your organization admin's private key and certificate, You can use these to load an identity to a Wallet.
+- You can now use this admin identity to connect to the org CA and request to register and enroll more users as required.
+- An identity object can be created from the credentials supplied to you by your administrator or certificate authority

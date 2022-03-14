@@ -5,6 +5,9 @@
 ## Peer State Management
 - http://www.bcmentors.com/fabric-peer-state-management/
 
+## Signing Transactions Offline
+- https://hyperledger.github.io/fabric-sdk-node/release-2.2/tutorial-sign-transaction-offline.html
+
 ## Wallets
 - https://stackoverflow.com/questions/55358598/what-is-the-difference-between-a-cryptokeystore-and-a-wallet-in-hyperledger-fabr
 - https://github.com/FahimDev/Private-Blockchain-SampleWallet

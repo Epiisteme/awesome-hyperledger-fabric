@@ -48,6 +48,9 @@
 - https://hyperledger-fabric.readthedocs.io/en/release-2.2/cc_launcher.html
 - https://github.com/vanitas92/fabric-external-chaincodes
 
+## Certificate Authority
+- https://stackoverflow.com/questions/59177269/admin-users-created-by-ca-vs-admin-users-created-by-cryptogen-in-hyperle
+
 ## System ChainCodes
 - https://medium.com/coinmonks/system-chaincodes-in-hyperledger-fabric-vscc-escc-lscc-cscc-a48db4d24dc3
 
@@ -113,3 +116,8 @@
 - If you have access to your organization admin's private key and certificate, You can use these to load an identity to a Wallet.
 - You can now use this admin identity to connect to the org CA and request to register and enroll more users as required.
 - An identity object can be created from the credentials supplied to you by your administrator or certificate authority
+
+## On Adminstrator Users
+- you have to distinguish a CA administrator from a organization administrator. 
+- You first enroll the CA administrator, otherwise you cannot register identities. 
+- An organization admin is simply an identity with role admin for the organization.

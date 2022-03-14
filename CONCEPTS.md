@@ -2,6 +2,9 @@
 ## Introduction
 - https://xord.com/publications/hyperledger-fabric-architecture-a-deep-dive/
 
+## Chaincode Upgrade
+- https://stackoverflow.com/questions/56681526/how-to-update-the-chaincode-in-hyperledger-fabric
+
 ## Peer State Management
 - http://www.bcmentors.com/fabric-peer-state-management/
 

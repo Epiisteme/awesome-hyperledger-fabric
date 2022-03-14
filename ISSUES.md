@@ -44,3 +44,6 @@
 - https://jira.hyperledger.org/browse/FAB-2183
 - https://jira.hyperledger.org/browse/FAB-18355
 - https://stackoverflow.com/questions/44918611/composite-key-functions-in-hyperledger
+
+## Issues with Event Hub
+- https://stackoverflow.com/questions/67606746/hyperledger-fabric-1-4-eventhub-disconnects-without-detailed-error

@@ -2,6 +2,9 @@
 ## Introduction
 - https://xord.com/publications/hyperledger-fabric-architecture-a-deep-dive/
 
+## Hash Time Lock Aggreements
+- https://redthunder.blog/2019/03/28/hashed-timelock-agreements-in-hyperledger-fabric/
+
 ## Chaincode Upgrade
 - https://stackoverflow.com/questions/56681526/how-to-update-the-chaincode-in-hyperledger-fabric
 

@@ -13,6 +13,9 @@
 ## Issues with cross channel invocation
 - https://stackoverflow.com/questions/51657142/chaincode-smart-contract-interactions-within-and-across-channels-in-hyperledge?rq=1
 
+## Issues with Shim Package in Fabric 2.0
+- https://stackoverflow.com/questions/65487303/error-error-getting-chaincode-bytes-failed-to-calculate-dependencies-incomple
+
 ## Issue with the periodic update of Chaincode State
 - https://stackoverflow.com/questions/37348651/cannot-put-state-in-query-context
 

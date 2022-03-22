@@ -21,4 +21,5 @@
 ## ERC 20 on Hyperledger Fabric
 - https://fabric-documentations.readthedocs.io/en/latest/commands/token.html
 - https://github.com/grepruby/ERC20-Token-On-Hyperledger
+- https://github.com/tcd93/fabric-erc20-go
 - https://medium.com/deqode/erc20-tokens-on-hyperledger-b82399b4b969

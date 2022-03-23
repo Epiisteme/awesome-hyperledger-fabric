@@ -7,6 +7,9 @@
 ## Issues with Fabric SDK and Fabric CA
 - https://jira.hyperledger.org/browse/FABG-903
 
+## Issues with Shim based chaincode deployment
+- https://stackoverflow.com/questions/71290602/error-chaincode-install-failed-with-status-500-failed-to-invoke-backing-impl
+
 ## Issues with the usage of randomness
 - https://stackoverflow.com/questions/60770803/block-committed-even-after-endorsement-policy-failure-in-hyperledger-fabric-v1-4?rq=1
 

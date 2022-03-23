@@ -9,6 +9,9 @@
 
 ## Issues with Shim based chaincode deployment
 - https://stackoverflow.com/questions/71290602/error-chaincode-install-failed-with-status-500-failed-to-invoke-backing-impl
+- Error: chaincode install failed with status: 500 - failed to invoke backing implementation of 'InstallChaincode': 
+- could not build chaincode: docker build failed: docker image build failed: docker build failed: 
+- Error returned from build: 2 "google.golang.org/grpc/internal/grpcsync 
 
 ## Issues with the usage of randomness
 - https://stackoverflow.com/questions/60770803/block-committed-even-after-endorsement-policy-failure-in-hyperledger-fabric-v1-4?rq=1

@@ -59,3 +59,5 @@
 
 ## Issues with the GoLang settings
 - https://stackoverflow.com/questions/68792756/gopath-goroot-setup-for-hyperledger-fabric-chaincode
+- https://lists.hyperledger.org/g/fabric/topic/74629524
+- https://jira.hyperledger.org/browse/FABCAG-28

@@ -1,4 +1,7 @@
 
+## Onpremise Environment Setup
+- https://medium.com/coinmonks/hyperledger-fabric-in-practice-part-1-main-components-and-running-them-locally-aa4b805465fa
+
 ## Insights
 - 90% of the chaincode execution time is consumed by message transfers between the peer and the chaincode. 
 

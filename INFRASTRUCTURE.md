@@ -1,5 +1,5 @@
 
-## Onpremise Environment Setup
+## Local Environment Setup
 - https://medium.com/coinmonks/hyperledger-fabric-in-practice-part-1-main-components-and-running-them-locally-aa4b805465fa
 
 ## Insights

@@ -2,6 +2,8 @@
 ## Hyperledger Fabric on Kubernetes Cluster
 - https://github.com/TommyStarK/hyperledger-fabric-kubernetes
 - https://github.com/mallikprojects/hyperledger-k8
+- https://github.com/alejandrolr/fabric-on-kubernetes
+- https://github.com/isabella232/hyperledger-fabric-k8s
 
 ## External Chaincodes on Kubernetes Cluster
 - https://github.com/mbizhani/HLF4Lab

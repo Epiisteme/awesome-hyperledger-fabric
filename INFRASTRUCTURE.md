@@ -4,6 +4,7 @@
 
 ## Kubernetes Setup
 - https://malliksarvepalli.medium.com/deploying-hyperledger-fabric-on-kubernetes-using-helm-argo-with-fabric-ca-instead-of-cryptogen-bbafc1e6df1c
+- https://www.hyperledger.org/blog/2018/11/15/how-to-deploy-hyperledger-fabric-on-kubernetes-part-ii?msclkid=c640b30bae5e11ec97b21ad40cc83126
 - https://medium.com/gammastack/hyperledger-fabric-setup-on-kubernetes-cluster-22ad4ff844ee
 - https://www.think-foundry.com/hyperledger-fabric-deployment-using-helm-chart/
 - http://www.think-foundry.com/deploy-hyperledger-fabric-on-kubernetes-part-1/

@@ -7,6 +7,11 @@
 - https://github.com/mallikprojects/hyperledger-k8
 - https://github.com/alejandrolr/fabric-on-kubernetes
 - https://github.com/isabella232/hyperledger-fabric-k8s
+- https://github.com/mallikprojects/hyperledger-k8
+- https://github.com/kfsoftware/hlf-operator
+- https://github.com/feitnomore/hyperledger-fabric-kubernetes
+- https://github.com/blockchaind/hyperledger-fabric-v2-kubernetes-dev
+- https://github.com/happilymarrieddad/hyperledger-fabric-kubernetes
 
 ## External Chaincodes on Kubernetes Cluster
 - https://github.com/mbizhani/HLF4Lab

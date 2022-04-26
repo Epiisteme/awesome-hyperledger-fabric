@@ -1,5 +1,7 @@
 ## Multi Host Setup
 - https://developer.ibm.com/announcements/provision-hyperledger-fabric-on-multiple-vms-using-ansible/
+- https://www.rapidqube.com/hyperledger-fabric-2-0-on-multiple-hosts/
+- https://wahabjawed.medium.com/hyperledger-fabric-on-multiple-hosts-a33b08ef24f
 - https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d
 - https://github.com/akshayironheart/HyperledgerFabricMultiHostDeployments
 - https://github.com/Purka/Hyperledger-Multi-Host-Multi-Org

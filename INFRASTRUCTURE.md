@@ -1,3 +1,12 @@
+## Multi Host Setup
+- https://developer.ibm.com/announcements/provision-hyperledger-fabric-on-multiple-vms-using-ansible/
+- https://kctheservant.medium.com/multi-host-deployment-for-first-network-hyperledger-fabric-v2-273b794ff3d
+- https://github.com/akshayironheart/HyperledgerFabricMultiHostDeployments
+- https://github.com/Purka/Hyperledger-Multi-Host-Multi-Org
+- https://github.com/sithukaungset/hyperledger-fabric-multiple-peers
+- https://github.com/wahabjawed/Build-Multi-Host-Network-Hyperledger
+- https://github.com/rizwan92/hyperledger-fabric-practice-in-cloud
+- https://www.ideas2it.com/blogs/hyperledger-fabric-multiple-vm/
 
 ## Local Environment Setup
 - https://medium.com/coinmonks/hyperledger-fabric-in-practice-part-1-main-components-and-running-them-locally-aa4b805465fa
